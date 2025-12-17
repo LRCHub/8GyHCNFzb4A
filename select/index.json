@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "カフネ",
+  "base_artist": "えんぷてい",
+  "createdAt": "2025-12-17T15:19:41.412425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カフネ",
+      "artist": "Brian the Sun",
+      "has_synced": true,
+      "path": "select/01_カフネ_Brian_the_Sun.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カフネ",
+      "artist": "有機酸 feat. v flower, 初音ミク",
+      "has_synced": false,
+      "path": "select/02_カフネ_有機酸_feat._v_flower,_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カフネ",
+      "artist": "有機酸",
+      "has_synced": false,
+      "path": "select/03_カフネ_有機酸.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カフネ",
+      "artist": "Absolute area",
+      "has_synced": true,
+      "path": "select/04_カフネ_Absolute_area.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カフネ (Instrumental)",
+      "artist": "Brian the Sun",
+      "has_synced": true,
+      "path": "select/05_カフネ_(Instrumental)_Brian_the_Sun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カフネ",
+      "artist": "えんぷてい",
+      "has_synced": false,
+      "path": "select/pl_01_カフネ_えんぷてい.txt"
+    }
+  ]
+}
